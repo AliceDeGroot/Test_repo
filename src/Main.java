@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Hello "+ antw1+"!" );
         System.out.println("How are you today?");
         String antw2 = scanner.nextLine();
+        System.out.println(antw2+" too !" );
         System.out.println("Nice talking to you. Goodbey !");
     }
 }
