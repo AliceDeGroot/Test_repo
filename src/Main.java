@@ -8,5 +8,8 @@ public class Main {
         System.out.println("Whats your name?");
         String antw1 = scanner.nextLine();
         System.out.println("Hello "+ antw1+"!" );
+        System.out.println("How are you today?");
+        String antw2 = scanner.nextLine();
+        System.out.println("Nice talking to you. Goodbey !");
     }
 }
